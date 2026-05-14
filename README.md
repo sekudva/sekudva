@@ -39,9 +39,9 @@ Exploring cooperation vs. defection strategies in Go. Inspired by evolutionary d
 
 ---
 <div align="center">
-** 🧩 Interests **
+  <h2>🧩 Interests</h2>
 
-`Game theory` · `Behavioral dynamics` · `Evolutionary dynamics` · `Minimalism & code design`
+  `Game theory` · `Behavioral dynamics` · `Evolutionary dynamics` · `Minimalism & code design`
 </div>
 
 ---
