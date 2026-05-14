@@ -4,11 +4,6 @@
    ˚   ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=flat-square&logo=terminal)  ˚   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ˚   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ˚   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ˚   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)   ˚   ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)    ˚
    
 
----
-### 🤙 About Me
-
-I write in Go, exploring where algorithms meet agent-based behavior.  
-My portfolio includes a BFS + RL-agent maze solver, a theoretical game theory project (inspired by Axelrod's tournaments), and a few algorithmic side quests.
 
 ---
 ### 📁 Projects
