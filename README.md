@@ -33,11 +33,20 @@ Modular graph library with custom stack/queue implementations.
 Supports loading from file, DOT export, traversal algorithms, and a full ant colony optimization for TSP.  
 `Go` · `BFS/DFS` · `ant colony` · `TSP` · `DOT export` · `generics` (manual)
 
+### 🎭 [Strategika](https://github.com/sekudva/strategika) · Axelrod's tournament · Evolution of cooperation · Agent‑based modeling
 
-#### 🎭 [Game theory](ссылка) · Axelrod's tournament *(concept)*
-Exploring cooperation vs. defection strategies in Go. Inspired by evolutionary dynamics and the Iterated Prisoner's Dilemma.  
-`Go` · `Game theory` · `Agent-based modeling`
+Go implementation of Axelrod’s Iterated Prisoner's Dilemma tournament, extended from 2 to 3 actions (Cooperate / Hold / Defect).  
+Modular architecture with declarative strategy definitions (mirror rules, probabilistic triggers, modifiers).  
+Supports three interaction formats: **Duel** (1v1), **Trial** (1 vs group with reputation), and **Arena** (many vs many with emergent coalitions).  
+Includes round‑robin tournament runner, noise simulation, pluggable loggers, and configurable agent pools.
 
+`Go` · `Game theory` · `Agent-based modeling` · `Tournament engine` · `Reputation system` · `Strategy patterns`
+
+---
+
+Если хотите чуть короче — вариант для одной строки в листинге:
+
+> **Strategika** · 3‑action IPD · Axelrod tournament · Strategy engine (mirror/prob/trigger) · Duel / Trial / Arena formats · Reputation · Round‑robin · Go
 
 
 ---
