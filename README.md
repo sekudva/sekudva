@@ -40,21 +40,7 @@ Modular architecture with declarative strategy definitions (mirror rules, probab
 Supports three interaction formats: **Duel** (1v1), **Trial** (1 vs group with reputation), and **Arena** (many vs many with emergent coalitions).  
 Includes round‑robin tournament runner, noise simulation, pluggable loggers, and configurable agent pools.
 
-`Go` · `Game theory` · `Agent-based modeling` · `Tournament engine` · `Reputation system` · `Strategy patterns`
-
----
-
-Если хотите чуть короче — вариант для одной строки в листинге:
-
-> **Strategika** · 3‑action IPD · Axelrod tournament · Strategy engine (mirror/prob/trigger) · Duel / Trial / Arena formats · Reputation · Round‑robin · Go
-
-
----
-<div align="center">
-  <h2>🧩 Interests</h2>
-
-  `Game theory` · `Behavioral dynamics` · `Evolutionary dynamics` · `Minimalism & code design`
-</div>
+`Go` · `Game theory` · `Agent-based modeling` · `Tournament engine` · `Reputation system` · `Strategy patterns` · `Evolutionary dynamics` · `Behavioral dynamics`  · `Minimalism & code design`
 
 ---
 
