@@ -18,17 +18,17 @@
 ---
 ### 📁 Projects
 
-#### 🧭 [Maze](ссылка) · BFS + RL‑agent · Eller’s algorithm
+#### 🧭 [Maze]([ссылка](https://github.com/sekudva/maze) · BFS + RL‑agent · Eller’s algorithm
 Web‑based maze generator (Eller’s algorithm) and solver.  
 Comparison of optimal path (BFS) versus trained agent (Q‑learning).  
 `Go` · `Gin` · `WebSocket` · `HTML/CSS` · `Q‑learning` · `Eller`
 
-#### ❌⭕ [Tic‑Tac‑Toe](ссылка) · JWT · PostgreSQL · Minimax
+#### ❌⭕ [Tic‑Tac‑Toe](https://github.com/sekudva/tictactoe-api) · JWT · PostgreSQL · Minimax
 Console & HTTP game with full authentication flow.  
 Supports PvP, PvE (minimax bot), persistent game state via PostgreSQL, and refresh tokens.  
 `Go` · `JWT` · `PostgreSQL` · `Uber FX` · `Minimax` · `REST`
 
-#### 🔍 [Graph library](ссылка) · BFS/DFS · TSP (ant colony)
+#### 🔍 [Graph library](https://github.com/sekudva/graph_library) · BFS/DFS · TSP (ant colony)
 Modular graph library with custom stack/queue implementations.  
 Supports loading from file, DOT export, traversal algorithms, and a full ant colony optimization for TSP.  
 `Go` · `BFS/DFS` · `ant colony` · `TSP` · `DOT export` · `generics` (manual)
