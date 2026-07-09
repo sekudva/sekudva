@@ -18,7 +18,7 @@
 ---
 ### 📁 Projects
 
-#### 🧭 [Maze]([ссылка](https://github.com/sekudva/maze) · BFS + RL‑agent · Eller’s algorithm
+#### 🧭 [Maze](https://github.com/sekudva/maze) · BFS + RL‑agent · Eller’s algorithm
 Web‑based maze generator (Eller’s algorithm) and solver.  
 Comparison of optimal path (BFS) versus trained agent (Q‑learning).  
 `Go` · `Gin` · `WebSocket` · `HTML/CSS` · `Q‑learning` · `Eller`
